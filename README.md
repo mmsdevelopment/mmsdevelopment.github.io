@@ -1,31 +1,20 @@
-# Create React App
+# Welcome to MS Teams Clone!
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+### [Example Website](https://chat-app-jsmastery.netlify.app)
 
-## Deploy Your Own
+![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 
-Deploy your own Create React App project with Vercel.
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+## Introduction
 
-_Live Example: https://create-react-template.vercel.app/_
+This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
 
-## Available Scripts
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
 
-In the project directory, you can run:
+Its a good example of learning react and creating something production ready!
 
-### `npm start`
+## Want to build this too?
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
